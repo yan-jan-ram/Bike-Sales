@@ -118,3 +118,12 @@ Bike-Sales/
 ├── excel/ → Cleaned dataset
 ├── Tableau/ → Dashboard TWBX
 └── README.md
+```
+
+## ⭐ Key Insights Delivered
+
+- Adults (35–64) generate the highest revenue across multiple product categories
+- Road Bikes & Mountain Bikes are the strongest performing products
+- Consistent upward trend in revenue, indicating healthy business growth
+- Gender segmentation shows distinct buying patterns in product categories
+- Top countries contribute significantly to overall sales, visualized using bubble maps
