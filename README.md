@@ -66,6 +66,12 @@ The dataset includes transactional sales and customer demographic details.
 
 ---
 
+## 📊 Tableau Dashboard
+
+- This Tableau dashboard analyzes global bike sales performance across products, customer segments, and geographies.
+- It helps identify top-selling products, high-value age groups, gender-wise performance, and revenue trends.
+![dashboard](screenshots/dashboard.png)
+
 ## 📊 Dashboard Highlights
 
 ### 🔹 **1. Revenue & Profit Overview**
@@ -105,9 +111,9 @@ A world map showing geographic distribution of sales.
 
 ## 📁 Project Structure
 ```
-EVL-data/
+Bike-Sales/
 │
 ├── screenshots/ → Images for README
+├── excel/ → Cleaned dataset
 ├── Tableau/ → Dashboard TWBX
-├── excel/ → Cleaned & merged dataset
 └── README.md
