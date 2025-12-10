@@ -70,6 +70,7 @@ The dataset includes transactional sales and customer demographic details.
 
 - This Tableau dashboard analyzes global bike sales performance across products, customer segments, and geographies.
 - It helps identify top-selling products, high-value age groups, gender-wise performance, and revenue trends.
+
 ![dashboard](screenshots/dashboard.png)
 
 ## 📊 Dashboard Highlights
